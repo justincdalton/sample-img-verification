@@ -1,0 +1,389 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"borderThick"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"ran",
+				"randInt"
+			],
+			[
+				"tex",
+				"text-right"
+			],
+			[
+				"sect",
+				"sections"
+			],
+			[
+				"fra",
+				"fragmentData"
+			],
+			[
+				"frag",
+				"fragmentCtx"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/justin/Code/kristaBlog/wp-includes/template.php",
+			"settings":
+			{
+				"buffer_size": 10734,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/justin/Code/kristaBlog/wp-admin/theme-editor.php",
+		"/home/justin/Code/kristaBlog/wp-trackback.php",
+		"/home/justin/Code/df-python-test/dfsite/dfsite/urls.py",
+		"/home/justin/Code/df-python-test/dfsite/imgVerification/urls.py",
+		"/home/justin/Code/df-python-test/dfsite/dfsite/settings.py",
+		"/home/justin/Code/df-python-test/dfsite/imgVerification/DroidSans.ttf",
+		"/home/justin/Code/df-code-test (copy)/index.html",
+		"/home/justin/Code/mean/app/views/includes/head.jade",
+		"/home/justin/Code/mean/public/css/views/index.css",
+		"/home/justin/Code/mean/public/js/config.js",
+		"/home/justin/Code/ProjectFiles/justincdalton.sublime-project",
+		"/home/justin/Code/mean/public/js/controllers/todo.js",
+		"/home/justin/Code/mean/app/views/todo.jade",
+		"/home/justin/Code/mean/app/controllers/todo.js",
+		"/home/justin/Code/mean/config/routes.js",
+		"/home/justin/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/justin/Code/mean/app/controllers/index.js",
+		"/home/justin/Code/mean/public/views/index.html",
+		"/home/justin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/justin/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/justin/Code/justincdalton.com/public/css/main.less",
+		"/home/justin/Code/justincdalton.com/public/js/main.js",
+		"/home/justin/Code/justincdalton.com/public/js/main.min.js",
+		"/home/justin/Code/justincdalton.com/app/routes.php",
+		"/home/justin/Code/justincdalton.com/database.php",
+		"/var/log/apache2/error.log",
+		"/etc/apache2/error.logs",
+		"/home/justin/.config/sublime-text-3/Packages/User/Minifier.sublime-settings",
+		"/home/justin/.config/sublime-text-3/Packages/Minifier/Minifier.sublime-settings",
+		"/home/justin/Code/justincdalton.com/app/config/database.php",
+		"/home/justin/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/justin/Code/justincdalton.com/app/views/home/index.blade.php",
+		"/home/justin/Code/justincdalton.com/app/views/home/code.blade.php",
+		"/home/justin/.cache/.fr-YdAiCj/TS/Views/DrfHome/_EvalutorShortcuts.cshtml",
+		"/home/justin/.cache/.fr-rkMuCl/TS/Controllers/EditContentController.cs",
+		"/home/justin/.cache/.fr-LaqrGA/TS/Controllers/DrfHomeController.cs",
+		"/home/justin/.cache/.fr-O98dtH/TS/Views/DrfHome/Index.cshtml",
+		"/home/justin/.cache/.fr-t60ZxT/TS/Models/EditContent/FolderSortOrderView.cs",
+		"/home/justin/.cache/.fr-kJIp4n/TS/Models/EditContent/ReorderContentView.cs",
+		"/home/justin/.cache/.fr-zDVov1/TS/Models/EditContent/AttachmentInputModel.cs",
+		"/home/justin/.cache/.fr-oh7cAO/TS/Models/FolioStyle/UserFeedbackView.cs",
+		"/home/justin/.cache/.fr-uzW8g3/TS/Models/EditContent/FolderSortOrderView.cs",
+		"/home/justin/.cache/.fr-fr2H0c/TS/Models/EditContent/ReorderContentView.cs",
+		"/home/justin/.cache/.fr-RMaeXu/TS/Models/EditContent/AttachmentInputModel.cs",
+		"/home/justin/.cache/.fr-yeFxxX/TS/Models/FolioStyle/UserFeedbackView.cs",
+		"/home/justin/.cache/.fr-VF4pHU/TS/Models/DrfHome/IndexViewModel.cs",
+		"/home/justin/.cache/.fr-crB3b1/TS/Models/DrfHome/DrfProgramViewModel.cs",
+		"/etc/apache2/apache2.conf",
+		"/etc/hosts",
+		"/etc/apache2/sites-available/justincdalton.com"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			"express.compiler",
+			"hidden",
+			"side_bar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/justin/Code/kristaBlog/wp-includes/template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5810,
+								5810
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"vintage":
+							{
+								"_bottom_top": false,
+								"action": null,
+								"action_digits":
+								[
+								],
+								"cancel_action": false,
+								"expecting_register": false,
+								"expecting_user_input": false,
+								"mode": 4,
+								"motion": null,
+								"motion_digits":
+								[
+								],
+								"next_mode": 2,
+								"next_mode_command": null,
+								"register": null,
+								"stashed_action": null,
+								"user_action_input": null,
+								"user_input": null,
+								"user_motion_input": null,
+								"xpos": 31
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 3543.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "kristaBlog.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"template",
+				"wp-includes/template.php"
+			],
+			[
+				"urls",
+				"imgVerification/urls.py"
+			],
+			[
+				"mean/config",
+				"mean/config/express.js"
+			],
+			[
+				"todo.js",
+				"mean/public/js/controllers/todo.js"
+			],
+			[
+				"routes.js",
+				"mean/config/routes.js"
+			],
+			[
+				"app/controllers/index",
+				"mean/app/controllers/index.js"
+			],
+			[
+				"/js/controllers",
+				"mean/public/js/controllers/index.js"
+			],
+			[
+				"database",
+				"app/config/database.php"
+			],
+			[
+				"databa",
+				"database.php"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"main.js",
+				"public/js/main.js"
+			],
+			[
+				"main.es",
+				"public/css/main.less"
+			],
+			[
+				"index.b",
+				"app/views/home/index.blade.php"
+			],
+			[
+				"main.less",
+				"public/css/main.less"
+			],
+			[
+				".less",
+				"public/css/main.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"vintage":
+		{
+			"_cmdline_cd": "/home/justin/Code/kristaBlog/wp-includes",
+			"last_buffer_search": "get_page_template"
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
